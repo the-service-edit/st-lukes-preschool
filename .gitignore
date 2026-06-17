@@ -2,3 +2,6 @@
 Thumbs.db
 node_modules/
 *.log
+
+# synced-folder leftovers
+.fuse_hidden*
