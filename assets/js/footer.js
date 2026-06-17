@@ -17,7 +17,7 @@
         <li><a href="history.html">Our Story</a></li>\
         <li><a href="contact.html">Contact</a></li></ul></div>\
       <div class="footer__col"><h4>Enrol</h4><ul>\
-        <li><a href="enrol.html">Enrol Now</a></li>\
+        <li><a href="enrol.html">Join the Waiting List</a></li>\
         <li><a href="enrol.html">Waiting List</a></li>\
         <li><a href="enrol.html#how">How Enrolment Works</a></li>\
         <li><a href="contact.html">Ask a Question</a></li></ul></div>\
@@ -38,7 +38,7 @@
 </footer>\
 <div class="sticky-cta">\
   <a class="btn btn--ghost" href="tel:+61242614122" aria-label="Call St Luke\'s Preschool">Call</a>\
-  <a class="btn btn--primary" href="enrol.html">Enrol Now</a>\
+  <a class="btn btn--primary" href="enrol.html">Join Waitlist</a>\
 </div>';
   var yr = document.querySelector('[data-year]');
   if (yr) yr.textContent = new Date().getFullYear();
