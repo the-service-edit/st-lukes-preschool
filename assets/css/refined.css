@@ -72,11 +72,11 @@
 .loves__intro h2 { font-size: var(--fs-h2); }
 .love-item { padding: 1.7rem 0; border-top: 1px solid var(--line); display:grid; grid-template-columns: auto 1fr; gap: 1.4rem; align-items:start; }
 .love-item:last-child { border-bottom: 1px solid var(--line); }
-.love-item__mark { margin-top: 0.1rem; width: 52px; height: 52px; border-radius: 16px; display:grid; place-items:center; flex:none; }
-.love-item:nth-child(1) .love-item__mark { background: rgba(237,50,82,0.12); color: var(--red); }
-.love-item:nth-child(2) .love-item__mark { background: rgba(113,165,185,0.16); color: var(--blue-deep); }
-.love-item:nth-child(3) .love-item__mark { background: rgba(255,200,3,0.18); color: var(--yellow-deep); }
-.love-item:nth-child(4) .love-item__mark { background: rgba(188,217,47,0.22); color: var(--lime-deep); }
+.love-item__mark { margin-top: 0.1rem; width: 62px; height: 62px; border-radius: 18px; display:grid; place-items:center; flex:none; }
+.love-item:nth-child(1) .love-item__mark { background: var(--red); }
+.love-item:nth-child(2) .love-item__mark { background: var(--blue); }
+.love-item:nth-child(3) .love-item__mark { background: var(--yellow); }
+.love-item:nth-child(4) .love-item__mark { background: var(--lime); }
 .love-item__mark svg { width: 28px; height: 28px; }
 .love-item__mark .sticker { width: 44px; height: 44px; }
 .love-item__mark .sticker svg { width: 100%; height: 100%; }
@@ -132,7 +132,8 @@
 @media (max-width: 720px){ .testi__grid{grid-template-columns:1fr;} }
 
 /* ---------- FINAL invite ---------- */
-.invite { background: var(--forest-deep); color: var(--soft-cream); text-align:center; position:relative; overflow:hidden; }
+.invite { background: var(--red); color: #fff; text-align:center; position:relative; overflow:hidden; }
 .invite h2 { color:#fff; font-size: var(--fs-h1); max-width: 18ch; margin-inline:auto; }
-.invite p { color: var(--sand); font-size: var(--fs-lead); max-width: 52ch; margin: 1.3rem auto 2.2rem; }
-.invite .bloom--sage { width: 360px; height:360px; top:-120px; left:-80px; opacity:0.18; }
+.invite p { color: rgba(255,255,255,0.95); font-size: var(--fs-lead); max-width: 52ch; margin: 1.3rem auto 2.2rem; }
+.invite .bloom { width: 340px; height:340px; opacity:0.5; }
+.invite .bloom--sage { background: radial-gradient(circle, rgba(255,255,255,0.22), transparent 70%); top:-120px; left:-80px; }
