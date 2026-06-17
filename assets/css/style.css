@@ -523,6 +523,14 @@ em { font-style: italic; }
   .sticky-cta .btn { padding: 0.9rem; font-size: 0.95rem; }
 }
 
+/* Collapse any inline 2-col grids (enrol paths, FAQ, reforms, philosophy) on phones */
+@media (max-width: 720px) {
+  .values[style], .steps[style] { grid-template-columns: 1fr !important; }
+  .value[style] { padding: 1.8rem !important; }
+  .form-card { padding: 1.5rem !important; }
+  .form-row { grid-template-columns: 1fr; }
+}
+
 /* ---------- Utilities ---------- */
 .text-center { text-align: center; }
 .mt-2 { margin-top: 2rem; } .mt-3 { margin-top: 3rem; }
