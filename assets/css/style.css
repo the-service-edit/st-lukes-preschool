@@ -503,6 +503,26 @@ em { font-style: italic; }
 .reveal-d3 { transition-delay: 0.24s; }
 @media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; } }
 
+/* ---------- Mobile polish (agency pass) ---------- */
+@media (max-width: 600px) {
+  :root { --section: 3.9rem; --gutter: 1.3rem; }
+  /* declutter header on phones; the sticky bar carries the CTA */
+  .nav__cta { display: none; }
+  .site-header.is-solid { padding: 0.55rem 0; }
+  .nav__logo img, .is-solid .nav__logo img { height: 42px; }
+  /* generous tap targets */
+  .btn { padding: 0.95rem 1.55rem; font-size: 0.98rem; }
+  /* trust bar breathes */
+  .trustbar__item { padding: 1.55rem 0.9rem; }
+  .trustbar__item strong { font-size: 1.3rem; }
+  /* page hero (inner) sits tighter */
+  .page-hero { min-height: 48vh; padding-top: 7rem; }
+  /* quote cards read larger */
+  .quote p { font-size: 1.14rem; }
+  /* sticky CTA: comfortable, balanced */
+  .sticky-cta .btn { padding: 0.9rem; font-size: 0.95rem; }
+}
+
 /* ---------- Utilities ---------- */
 .text-center { text-align: center; }
 .mt-2 { margin-top: 2rem; } .mt-3 { margin-top: 3rem; }
