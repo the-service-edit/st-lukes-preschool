@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Child Safety &amp; Wellbeing | St Luke's Preschool Dapto</title>
+<meta name="description" content="How St Luke's Preschool keeps your child safe: Working With Children Checks, qualified educators, Child Safe Standards, secure arrivals, and full alignment with Australia's 2025–26 child safety reforms.">
+<meta name="keywords" content="child safety preschool Dapto, child safe standards, Working With Children Check, childcare safety NSW, early childhood child protection">
+<link rel="canonical" href="https://www.stlukespreschool.org.au/safety">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <nav class="nav wrap" aria-label="Primary">
+    <a class="nav__logo" href="index.html" aria-label="St Luke's Preschool home">
+      <img class="logo-light" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1561011271362-WZL18BUPBZLLY5ZI9XCS/StLukes_Logo_RGB_WhiteText.png?format=500w" alt="St Luke's Preschool">
+      <img class="logo-dark" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1561000660241-JR309UO80O5GHP8TYJ64/StLukes_Logo_RGB.png?format=500w" alt="St Luke's Preschool">
+    </a>
+    <ul class="nav__links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="philosophy.html">Our Approach</a></li>
+      <li><a href="safety.html" aria-current="page">Child Safety</a></li>
+      <li><a href="team.html">Our Educators</a></li>
+      <li><a href="history.html">Our Story</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <div class="nav__cta">
+      <a class="btn btn--outline-light" href="enrol.html">Waiting List</a>
+      <a class="btn btn--timber" href="enrol.html#tour">Book a Tour</a>
+    </div>
+    <button class="nav__toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </nav>
+</header>
+
+<main id="main">
+
+<section class="page-hero">
+  <div class="page-hero__media" data-parallax>
+    <img src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1565507917044-O67GJ3ZT9C9CVFGUKQB0/DSC07083.jpg?format=2000w" alt="Children playing safely under supervision at St Luke's Preschool">
+  </div>
+  <div class="wrap">
+    <div class="breadcrumb"><a href="index.html">Home</a> &nbsp;/&nbsp; Child Safety &amp; Wellbeing</div>
+    <span class="eyebrow">Child safety &amp; wellbeing</span>
+    <h1>Before anything else, your child is safe here.</h1>
+    <p>Safety isn't a policy we keep in a folder. It's the quiet, everyday work that lets your child explore, take small risks and grow, knowing the adults around them are watching out for them.</p>
+  </div>
+</section>
+
+<!-- Opening reassurance -->
+<section class="section">
+  <div class="wrap-narrow reveal">
+    <p class="lead" style="margin-bottom:1.2rem">Like every parent in Australia, you've heard the recent news about safety in early childhood settings. We understand exactly how that feels, because we feel it too. It's why we welcome the stronger national protections introduced across 2025 and 2026, and why we hold ourselves to a standard higher than the minimum the law requires.</p>
+    <p class="muted">Here is precisely how we keep your child safe, in plain language, with nothing hidden.</p>
+  </div>
+</section>
+
+<!-- Everyday safeguards -->
+<section class="section section--cream">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <span class="eyebrow">Every single day</span>
+      <h2>The safeguards that never switch off.</h2>
+    </div>
+    <div class="values">
+      <article class="value reveal"><h3>Every adult is checked</h3><p>Every educator, staff member and regular visitor holds a current, verified NSW Working With Children Check. No exceptions, and we monitor them so none lapse.</p></article>
+      <article class="value reveal reveal-d1"><h3>Qualified, familiar faces</h3><p>Your child is cared for by trained early childhood educators who stay with us. Low turnover means consistent, trusted relationships, not a rotating cast of strangers.</p></article>
+      <article class="value reveal"><h3>Secure arrivals &amp; departures</h3><p>Children are signed in and out, the gate is supervised, and only the adults you authorise can collect your child. We confirm, every time.</p></article>
+      <article class="value reveal reveal-d1"><h3>Always supervised</h3><p>We meet and aim to exceed regulated educator-to-child ratios, with active supervision planned across every space, indoors and out.</p></article>
+      <article class="value reveal"><h3>A child-safe culture</h3><p>We embed the National Principles for Child Safe Organisations and the NSW Child Safe Standards, where children are listened to, and every adult knows how to recognise and report a concern.</p></article>
+      <article class="value reveal reveal-d1"><h3>Trained to respond</h3><p>Our educators hold current first aid, CPR, asthma and anaphylaxis training, and understand their mandatory reporting responsibilities.</p></article>
+    </div>
+  </div>
+</section>
+
+<!-- New reforms explained -->
+<section class="section">
+  <div class="wrap">
+    <div class="section-head reveal" style="max-width:720px">
+      <span class="eyebrow">The 2025–26 national reforms</span>
+      <h2>Stronger protections, and we welcome every one.</h2>
+      <p class="lead mt-2">Australia has strengthened the rules for early childhood education. Here's what's changed, and what it means for your child at St Luke's.</p>
+    </div>
+    <div class="steps" style="grid-template-columns:1fr 1fr">
+      <article class="step reveal" style="background:var(--soft-cream)">
+        <h3>Phones &amp; photos, tightly controlled</h3>
+        <p>Under the new National Law, personal mobile devices are restricted while educators work directly with children. Only secure, service-issued devices are used to take photos, with your authorisation, and images are stored and disposed of under a strict policy.</p>
+      </article>
+      <article class="step reveal reveal-d1" style="background:var(--soft-cream)">
+        <h3>Clear digital &amp; online-safety policies</h3>
+        <p>From September 2025, services must have policies governing how children's images are taken, used, stored and destroyed, how consent is managed, and how any surveillance is handled. Ours are documented and available to you.</p>
+      </article>
+      <article class="step reveal" style="background:var(--soft-cream)">
+        <h3>Mandatory child-safety training</h3>
+        <p>A new national child-safety training program is being rolled out for everyone working in early education. Our team completes ongoing child-protection training as part of how we work, not a one-off tick-box.</p>
+      </article>
+      <article class="step reveal reveal-d1" style="background:var(--soft-cream)">
+        <h3>A national educator register</h3>
+        <p>Australia is introducing a national register of early childhood educators to lift accountability across the sector. We fully support it and the transparency it brings to families everywhere.</p>
+      </article>
+    </div>
+    <p class="muted" style="margin-top:1.6rem;font-size:0.92rem;max-width:70ch">We continue to meet the requirements of the National Quality Framework and stay current with each reform as it commences. If you'd ever like to read a specific policy, simply ask, we'll happily share it.</p>
+  </div>
+</section>
+
+<!-- Transparency / partnership -->
+<section class="section section--sand">
+  <div class="wrap">
+    <div class="split">
+      <div class="split__media reveal">
+        <img src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1565508466948-XQP3SO8FXS1XN3RIQOCJ/Child%27s+Voice+photo.jpg?format=1200w" alt="A child engaged in safe, supervised play at St Luke's Preschool">
+      </div>
+      <div class="reveal reveal-d1">
+        <span class="eyebrow">Open door, always</span>
+        <h2 style="font-size:var(--fs-h2);margin-bottom:1.1rem">If something's on your mind, tell us.</h2>
+        <p style="margin-bottom:1rem">The safest centres are the ones where families feel completely comfortable raising anything, big or small. You can speak to your child's educator or our Director at any time, and we'll listen properly.</p>
+        <p class="muted" style="margin-bottom:1.4rem">We also have clear, written processes for handling concerns and complaints, and obligations to report and act when a child's safety is involved. You'll never be brushed aside.</p>
+        <a class="textlink" href="contact.html">Talk to us
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--forest text-center">
+  <div class="wrap-narrow reveal">
+    <span class="eyebrow" style="color:var(--sand)">See it for yourself</span>
+    <h2 style="font-size:var(--fs-h1)">The best reassurance is standing in the room.</h2>
+    <p class="lead" style="margin:1.2rem auto 2rem">Book a tour and ask us anything about safety. We'd rather you ask ten questions than wonder about one.</p>
+    <a class="btn btn--light" href="enrol.html#tour">Book a Tour</a>
+  </div>
+</section>
+
+</main>
+
+<div data-footer></div>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/footer.js"></script>
+<script src="assets/js/stickers.js"></script>
+</body>
+</html>

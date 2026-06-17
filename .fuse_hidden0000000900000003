@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Our Story | St Luke's Preschool Dapto, Since 1953</title>
+<meta name="description" content="For over seventy years St Luke's Preschool has cared for Dapto's children. From a small weatherboard hall in 1953 to our Moombara Street home, our story is one of community and continuity.">
+<link rel="canonical" href="https://www.stlukespreschool.org.au/history">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <nav class="nav wrap" aria-label="Primary">
+    <a class="nav__logo" href="index.html" aria-label="St Luke's Preschool home">
+      <img class="logo-light" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1561011271362-WZL18BUPBZLLY5ZI9XCS/StLukes_Logo_RGB_WhiteText.png?format=500w" alt="St Luke's Preschool">
+      <img class="logo-dark" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1561000660241-JR309UO80O5GHP8TYJ64/StLukes_Logo_RGB.png?format=500w" alt="St Luke's Preschool">
+    </a>
+    <ul class="nav__links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="philosophy.html">Our Approach</a></li>
+      <li><a href="safety.html">Child Safety</a></li>
+      <li><a href="team.html">Our Educators</a></li>
+      <li><a href="history.html" aria-current="page">Our Story</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <div class="nav__cta">
+      <a class="btn btn--outline-light" href="enrol.html">Waiting List</a>
+      <a class="btn btn--timber" href="enrol.html#tour">Book a Tour</a>
+    </div>
+    <button class="nav__toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </nav>
+</header>
+
+<main id="main">
+
+<section class="page-hero">
+  <div class="page-hero__media" data-parallax>
+    <img src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1592282954119-CDV9T5NNB0L24XJEW8O0/Picture2.jpg?format=2000w" alt="St Luke's Preschool through the years in Dapto">
+  </div>
+  <div class="wrap">
+    <div class="breadcrumb"><a href="index.html">Home</a> &nbsp;/&nbsp; Our Story</div>
+    <span class="eyebrow">Since 1953</span>
+    <h1>Seventy years in the same community.</h1>
+    <p>Some of the grandparents who tour with us today came here as children. That kind of continuity is rare, and we don't take it for granted.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap-narrow reveal prose">
+    <p class="lead">St Luke's Preschool was first established seventy years ago, in 1953, and has been connected to Dapto Anglican Church ever since. It began in a small weatherboard hall in the heart of Dapto, a humble start for what would become a cornerstone of the community.</p>
+    <p>As demand grew and the hall reached capacity, the preschool relocated to the minister's house in 1960, a short move up the highway that brought two classrooms and new opportunities for a wider community of children and families.</p>
+    <p>In 1985 we moved to our current home on Moombara Street, within the Dapto Anglican Church complex, deepening that connection. A demolition and rebuild of the indoor and outdoor environments followed in 1986, carried out with the help of volunteers and leaders from the church, creating a high-quality place for learning.</p>
+    <p>That work has never really stopped. In recent years we've added updated offices, a sensory bike track, cubby houses, shade sails and an undercover outdoor space. The environment keeps evolving, but the heart of the place stays the same.</p>
+  </div>
+</section>
+
+<section class="section section--cream">
+  <div class="wrap">
+    <div class="section-head section-head--center reveal"><span class="eyebrow">Milestones</span><h2>A few moments along the way.</h2></div>
+    <div class="timeline">
+      <div class="tl-item reveal"><div class="year">1953</div><p>St Luke's Preschool opens in a small weatherboard hall in Dapto, connected to Dapto Anglican Church.</p></div>
+      <div class="tl-item reveal"><div class="year">1960</div><p>Growing demand prompts a move to the minister's house, adding two classrooms and reaching more local families.</p></div>
+      <div class="tl-item reveal"><div class="year">1985</div><p>The preschool settles into its current Moombara Street home, within the church complex.</p></div>
+      <div class="tl-item reveal"><div class="year">1986</div><p>A community-led rebuild of the indoor and outdoor spaces creates a high-quality learning environment.</p></div>
+      <div class="tl-item reveal"><div class="year">Today</div><p>Rated Exceeding the National Quality Standard, with new offices, a sensory bike track, cubbies, shade and undercover play.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--sand">
+  <div class="wrap">
+    <div class="collage">
+      <img class="collage__a reveal" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1592282980339-CZZE8GFKVVMYVTO31YHK/Picture4.jpg?format=1200w" alt="A historic moment at St Luke's Preschool">
+      <img class="collage__b reveal reveal-d1" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1592283031973-381QVJN8A446ZSV9Z1BG/Picture5.jpg?format=900w" alt="Children at St Luke's Preschool over the years">
+      <img class="collage__c reveal reveal-d1" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1560493905832-36Q8U0FR3EG69P8MOR0L/St+Lukes+Preschool+%287+of+7%29+%28Medium%29.jpg?format=900w" alt="A learning moment at St Luke's Preschool">
+      <img class="collage__d reveal" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1560494178181-BU57Z2SJPV25T3A36STT/St+Lukes+Preschool+%281+of+7%29+%28Medium%29.jpg?format=1200w" alt="Children playing at St Luke's Preschool today">
+    </div>
+  </div>
+</section>
+
+<section class="section section--forest text-center">
+  <div class="wrap-narrow reveal">
+    <span class="eyebrow" style="color:var(--sand)">Be part of the story</span>
+    <h2 style="font-size:var(--fs-h1)">The next chapter could be your child's.</h2>
+    <p class="lead" style="margin:1.2rem auto 2rem">Come and see the place generations of Dapto families have called their first school.</p>
+    <a class="btn btn--light" href="enrol.html#tour">Book a Tour</a>
+  </div>
+</section>
+
+</main>
+
+<div data-footer></div>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/footer.js"></script>
+<script src="assets/js/stickers.js"></script>
+</body>
+</html>

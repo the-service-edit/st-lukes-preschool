@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact &amp; Visit Us | St Luke's Preschool Dapto</title>
+<meta name="description" content="Contact St Luke's Preschool in Dapto, NSW. Visit us at Lot 100 Moombara Street, call (02) 4261 4122, or send a message. We'd love to hear from your family.">
+<link rel="canonical" href="https://www.stlukespreschool.org.au/contact">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <nav class="nav wrap" aria-label="Primary">
+    <a class="nav__logo" href="index.html" aria-label="St Luke's Preschool home">
+      <img class="logo-light" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1561011271362-WZL18BUPBZLLY5ZI9XCS/StLukes_Logo_RGB_WhiteText.png?format=500w" alt="St Luke's Preschool">
+      <img class="logo-dark" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1561000660241-JR309UO80O5GHP8TYJ64/StLukes_Logo_RGB.png?format=500w" alt="St Luke's Preschool">
+    </a>
+    <ul class="nav__links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="philosophy.html">Our Approach</a></li>
+      <li><a href="safety.html">Child Safety</a></li>
+      <li><a href="team.html">Our Educators</a></li>
+      <li><a href="history.html">Our Story</a></li>
+      <li><a href="contact.html" aria-current="page">Contact</a></li>
+    </ul>
+    <div class="nav__cta">
+      <a class="btn btn--outline-light" href="enrol.html">Waiting List</a>
+      <a class="btn btn--timber" href="enrol.html#tour">Book a Tour</a>
+    </div>
+    <button class="nav__toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </nav>
+</header>
+
+<main id="main">
+
+<section class="page-hero" style="min-height:46vh">
+  <div class="page-hero__media" data-parallax>
+    <img src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1565507945660-YT7NANG791HRL6DCPRB5/Photo+2-5-19%2C+9+03+25+am.jpg?format=2000w" alt="Inside St Luke's Preschool, Dapto">
+  </div>
+  <div class="wrap">
+    <div class="breadcrumb"><a href="index.html">Home</a> &nbsp;/&nbsp; Contact</div>
+    <span class="eyebrow">Get in touch</span>
+    <h1>We'd love to hear from you.</h1>
+    <p>Whether you're ready to tour or just have a question, there's a real person at the other end, happy to help.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="contact-grid">
+      <div class="reveal">
+        <div class="contact-detail">
+          <h4>Visit us</h4>
+          <p>Lot 100, Moombara Street<br>Dapto, NSW 2530</p>
+        </div>
+        <div class="contact-detail">
+          <h4>Post</h4>
+          <p>PO Box 25<br>Dapto, NSW 2530</p>
+        </div>
+        <div class="contact-detail">
+          <h4>Phone</h4>
+          <p><a class="textlink" href="tel:+61242614122">(02) 4261 4122</a></p>
+        </div>
+        <div class="contact-detail">
+          <h4>Email</h4>
+          <p><a class="textlink" href="mailto:office@stlukespreschool.org.au">office@stlukespreschool.org.au</a></p>
+        </div>
+        <div class="contact-detail">
+          <h4>Follow along</h4>
+          <p><a class="textlink" href="https://www.facebook.com/stlukespreschooldapto/">Facebook</a> &nbsp;·&nbsp; <a class="textlink" href="http://instagram.com/stlukespreschooldapto">Instagram</a></p>
+        </div>
+        <div class="map-embed mt-2">
+          <iframe title="Map to St Luke's Preschool, Moombara Street Dapto" loading="lazy" src="https://www.google.com/maps?q=Moombara+Street+Dapto+NSW+2530&output=embed"></iframe>
+        </div>
+      </div>
+
+      <div class="form-card reveal reveal-d1">
+        <h2 style="font-size:var(--fs-h3);margin-bottom:0.4rem">Send us a message</h2>
+        <p class="muted" style="margin-bottom:1.6rem">We aim to reply within one business day.</p>
+        <form onsubmit="return false">
+          <div class="form-row">
+            <div class="field"><label for="c-name">Your name</label><input id="c-name" type="text" autocomplete="name" placeholder="First and last name"></div>
+            <div class="field"><label for="c-phone">Phone</label><input id="c-phone" type="tel" autocomplete="tel" placeholder="Optional"></div>
+          </div>
+          <div class="field"><label for="c-email">Email</label><input id="c-email" type="email" autocomplete="email" placeholder="you@example.com"></div>
+          <div class="field"><label for="c-topic">What's your enquiry about?</label>
+            <select id="c-topic"><option>Select…</option><option>Booking a tour</option><option>Waiting list &amp; enrolment</option><option>Fees &amp; subsidies</option><option>Something else</option></select></div>
+          <div class="field"><label for="c-msg">Your message</label><textarea id="c-msg" placeholder="How can we help?"></textarea></div>
+          <button class="btn btn--primary" type="submit" style="width:100%;justify-content:center">Send Message</button>
+          <p class="muted" style="font-size:0.8rem;margin-top:0.9rem;text-align:center">Looking to enrol? You can also <a class="textlink" href="enrol.html#tour">book a tour</a> or <a class="textlink" href="enrol.html#waitlist">join the waiting list</a> directly.</p>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--forest text-center">
+  <div class="wrap-narrow reveal">
+    <span class="eyebrow" style="color:var(--sand)">Ready when you are</span>
+    <h2 style="font-size:var(--fs-h1)">Come and see why families stay.</h2>
+    <p class="lead" style="margin:1.2rem auto 2rem">A 30-minute tour tells you more than any brochure ever could.</p>
+    <a class="btn btn--light" href="enrol.html#tour">Book a Tour</a>
+  </div>
+</section>
+
+</main>
+
+<div data-footer></div>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/footer.js"></script>
+<script src="assets/js/stickers.js"></script>
+</body>
+</html>

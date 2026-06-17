@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>St Luke's Preschool, Website Evolution | Start Here</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" href="assets/css/style.css">
+<style>
+  .doc-hero { background: var(--forest-deep); color: var(--warm-white); padding: clamp(5rem,12vw,8rem) 0 clamp(3rem,6vw,4rem); }
+  .doc-hero h1 { color:#fff; font-weight:300; font-size:var(--fs-h1); max-width:18ch; }
+  .doc-hero .eyebrow { color: var(--sand); }
+  .doc-hero p { color: var(--sand); font-size: var(--fs-lead); max-width: 56ch; margin-top:1.2rem; }
+  .audit-grid { display:grid; grid-template-columns:1fr 1fr; gap:1.4rem; }
+  .audit-card { border:1px solid var(--line); border-radius:var(--radius); padding:1.8rem; background:var(--warm-white); }
+  .audit-card h3 { font-size:1.2rem; margin-bottom:0.8rem; display:flex; align-items:center; gap:0.6rem; }
+  .audit-card ul { margin:0; padding-left:1.1rem; }
+  .audit-card li { margin-bottom:0.5rem; color:var(--charcoal-soft); font-size:0.97rem; }
+  .dot { width:10px; height:10px; border-radius:50%; display:inline-block; flex:none; }
+  .dot--keep { background:var(--sage); } .dot--fix { background:var(--timber); } .dot--problem { background:#b5563f; }
+  .page-links { display:grid; grid-template-columns:repeat(3,1fr); gap:1.2rem; }
+  .page-link { display:block; border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; background:var(--warm-white); transition:transform .4s var(--ease), box-shadow .4s var(--ease); }
+  .page-link:hover { transform:translateY(-4px); box-shadow:var(--shadow-soft); }
+  .page-link__bar { height:6px; background:linear-gradient(90deg,var(--timber),var(--sage)); }
+  .page-link__body { padding:1.3rem 1.4rem; }
+  .page-link h4 { font-family:var(--serif); font-size:1.2rem; color:var(--forest-deep); margin-bottom:0.3rem; }
+  .page-link p { font-size:0.88rem; color:var(--charcoal-soft); }
+  .principle { display:grid; grid-template-columns:auto 1fr; gap:1.2rem; padding:1.2rem 0; border-top:1px solid var(--line); }
+  .principle__n { font-family:var(--serif); font-size:1.6rem; color:var(--sand-deep); line-height:1; }
+  .principle h4 { font-size:1.1rem; margin-bottom:0.3rem; }
+  .principle p { font-size:0.96rem; color:var(--charcoal-soft); }
+  .note { background:var(--soft-cream); border-left:3px solid var(--timber); padding:1.2rem 1.4rem; border-radius:0 10px 10px 0; font-size:0.95rem; color:var(--charcoal); }
+  @media (max-width:760px){ .audit-grid,.page-links{grid-template-columns:1fr;} }
+</style>
+</head>
+<body>
+
+<section class="doc-hero">
+  <div class="wrap">
+    <span class="eyebrow">For the St Luke's team · Website evolution</span>
+    <h1>This still feels like you. Just significantly better.</h1>
+    <p>A walkthrough of what we kept, what we elevated, and the thinking behind every decision, before you click into the new site.</p>
+    <div style="margin-top:2.2rem;display:flex;gap:1rem;flex-wrap:wrap">
+      <a class="btn btn--light" href="index.html">View the new homepage
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+      <a class="btn btn--outline-light" href="#audit">Read the audit first</a>
+    </div>
+  </div>
+</section>
+
+<main>
+
+<!-- Approach -->
+<section class="section">
+  <div class="wrap-narrow">
+    <span class="eyebrow">The brief we set ourselves</span>
+    <h2 style="font-size:var(--fs-h2);margin-bottom:1.2rem">Evolve, don't replace.</h2>
+    <p class="lead" style="margin-bottom:1.2rem">St Luke's has something most preschools would envy: seventy years of trust in one community. The job was never to invent a new brand. It was to remove the friction and dated edges that were quietly undercutting that trust online, and let the warmth of the place finally show through.</p>
+    <p class="muted">We kept your logo, your Christian values, your four pillars, your history and your real photography. We modernised the structure, the typography, the hierarchy and the path a parent takes toward an enquiry.</p>
+  </div>
+</section>
+
+<!-- Audit -->
+<section class="section section--cream" id="audit">
+  <div class="wrap">
+    <div class="section-head"><span class="eyebrow">The honest audit</span><h2>What we found on the old site.</h2></div>
+    <div class="audit-grid">
+      <div class="audit-card">
+        <h3><span class="dot dot--keep"></span>What already builds trust, kept</h3>
+        <ul>
+          <li><strong>Exceeding NQS rating</strong>, your single strongest credential. Now front and centre, not buried.</li>
+          <li><strong>70-year history</strong> &amp; church connection, rare proof of stability.</li>
+          <li><strong>Genuine photography</strong> of real children and play, far more convincing than stock.</li>
+          <li><strong>The four pillars</strong> and Christ-centred values, kept, reworded warmly.</li>
+          <li><strong>Acknowledgement of Country</strong>, retained and given a calm, respectful home.</li>
+        </ul>
+      </div>
+      <div class="audit-card">
+        <h3><span class="dot dot--problem"></span>What was hurting credibility</h3>
+        <ul>
+          <li><strong>Placeholder text left live</strong>, "Whatever it is, the way you tell your story…" on the Team page reads as unfinished.</li>
+          <li><strong>"Welcome to St Luke's Preschool!"</strong> plus generic greetings, dated and forgettable.</li>
+          <li><strong>Inconsistent type</strong>, mixed cases like "oUR pHILOSOPHY" signal neglect.</li>
+          <li><strong>A single 2020 blog post</strong> as "latest", suggests the site is abandoned.</li>
+          <li><strong>Broken / empty images</strong> in the hero and gallery.</li>
+        </ul>
+      </div>
+      <div class="audit-card">
+        <h3><span class="dot dot--fix"></span>What felt dated, modernised</h3>
+        <ul>
+          <li>Boxy, stacked Squarespace sections → editorial, asymmetric compositions.</li>
+          <li>Cramped spacing → generous whitespace that feels calm and premium.</li>
+          <li>Small, dense text → large, readable editorial typography.</li>
+          <li>Icon-heavy clip-art feel → restrained, natural palette and photography-led design.</li>
+        </ul>
+      </div>
+      <div class="audit-card">
+        <h3><span class="dot dot--problem"></span>What created friction for parents</h3>
+        <ul>
+          <li><strong>No clear primary action.</strong> "Book a Tour" didn't exist, the only path was a waiting-list form.</li>
+          <li><strong>Nine navigation items</strong> (Blog, Videos, St Luke's @ Home…) split attention.</li>
+          <li><strong>No reassurance</strong> about cost, ages or what a day looks like.</li>
+          <li><strong>Weak mobile experience</strong>, most parents browse on a phone at night.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- What changed strategically -->
+<section class="section">
+  <div class="wrap-narrow">
+    <div class="section-head"><span class="eyebrow">The decisions that matter</span><h2>Seven changes, each with a reason.</h2></div>
+    <div class="principle"><div class="principle__n">01</div><div><h4>Added a "Book a Tour" path</h4><p>A tour is your highest-converting moment, it's where families fall in love with the place. The whole site now funnels gently toward it, with the waiting list as the secondary action.</p></div></div>
+    <div class="principle"><div class="principle__n">02</div><div><h4>Led with proof in five seconds</h4><p>Exceeding NQS, ages 3–5, Est. 1953, Christ-centred, Dapto location, all visible the instant the page loads, building trust before a word is read.</p></div></div>
+    <div class="principle"><div class="principle__n">03</div><div><h4>Simplified navigation to five items</h4><p>Home, Our Approach, Our Educators, Our Story, Contact. Blog and Videos can return later as a "News" section once there's fresh content, an empty blog hurts more than no blog.</p></div></div>
+    <div class="principle"><div class="principle__n">04</div><div><h4>Made the educators the hero</h4><p>Parents choose people before programs. A dedicated, photography-led team page does more for enrolments than any feature list.</p></div></div>
+    <div class="principle"><div class="principle__n">05</div><div><h4>Added a "daily rhythm" so parents can picture the day</h4><p>The single biggest unspoken question, "what will my child actually do all day?", now has a calm, visual answer.</p></div></div>
+    <div class="principle"><div class="principle__n">06</div><div><h4>Rewrote every word in an educator's voice</h4><p>Warm, plain, Australian. No "We pride ourselves", no jargon. It reads like a person who loves children, because that's who parents want to meet.</p></div></div>
+    <div class="principle"><div class="principle__n">07</div><div><h4>Rebuilt for mobile, speed, SEO and accessibility</h4><p>Mobile-first layouts, a sticky "Book a Tour" button, proper heading structure, schema markup for local search, alt text and keyboard accessibility throughout.</p></div></div>
+    <div class="principle"><div class="principle__n">08</div><div><h4>Made child safety a headline, not fine print</h4><p>After the national conversation about safety in early childhood, parents are anxious. We added a dedicated <a class="textlink" href="safety.html">Child Safety</a> page and a homepage section that plainly explain your safeguards and your alignment with the 2025–26 reforms (device and photography restrictions, child-safe standards, Working With Children Checks, mandatory training). It turns a parent's biggest fear into a reason to choose you.</p></div></div>
+  </div>
+</section>
+
+<!-- Pages -->
+<section class="section section--sand">
+  <div class="wrap">
+    <div class="section-head section-head--center"><span class="eyebrow">Walk through it</span><h2>The new site, page by page.</h2></div>
+    <div class="page-links">
+      <a class="page-link" href="index.html"><div class="page-link__bar"></div><div class="page-link__body"><h4>Home</h4><p>Hero, trust bar, pillars, play, environment, educators, daily rhythm, testimonials, enrolment CTA.</p></div></a>
+      <a class="page-link" href="philosophy.html"><div class="page-link__bar"></div><div class="page-link__body"><h4>Our Approach</h4><p>Vision, values and play-based philosophy, in your words, warmly retold.</p></div></a>
+      <a class="page-link" href="safety.html"><div class="page-link__bar"></div><div class="page-link__body"><h4>Child Safety</h4><p>A dedicated page on safeguards and the 2025–26 reforms, to help parents feel safe.</p></div></a>
+      <a class="page-link" href="team.html"><div class="page-link__bar"></div><div class="page-link__body"><h4>Our Educators</h4><p>The people page, ready for real photos, names and qualifications.</p></div></a>
+      <a class="page-link" href="enrol.html"><div class="page-link__bar"></div><div class="page-link__body"><h4>Book a Tour &amp; Enrol</h4><p>Tour booking, how enrolment works, waiting list and key questions.</p></div></a>
+      <a class="page-link" href="history.html"><div class="page-link__bar"></div><div class="page-link__body"><h4>Our Story</h4><p>Seventy years of history as a timeline parents can feel.</p></div></a>
+      <a class="page-link" href="contact.html"><div class="page-link__bar"></div><div class="page-link__body"><h4>Contact</h4><p>Details, map and a simple, friendly enquiry form.</p></div></a>
+    </div>
+  </div>
+</section>
+
+<!-- What we need from you -->
+<section class="section">
+  <div class="wrap-narrow">
+    <div class="section-head"><span class="eyebrow">To make it fully real</span><h2>A short list of what only you can provide.</h2></div>
+    <div class="note" style="margin-bottom:1rem"><strong>Educator details.</strong> The team cards use placeholders like <em>[Name]</em>. Send each educator's name, role, qualification and one warm sentence, plus a relaxed photo, and the people page comes alive.</div>
+    <div class="note" style="margin-bottom:1rem"><strong>Two or three real testimonials.</strong> The quote cards are marked as samples. A few genuine lines from current families (your Google or Facebook reviews are a great source) will outperform anything we could write.</div>
+    <div class="note" style="margin-bottom:1rem"><strong>A handful of high-resolution photos.</strong> The current images are reused from your existing site and look great here. When you next have a warm, sunny day, a short documentary-style photo session, children exploring, educators alongside them, would lift the hero imagery further.</div>
+    <div class="note"><strong>Current fees &amp; subsidy details</strong> and live form connections (tour, waiting list, contact) to wire up before launch.</div>
+    <div class="note" style="border-left-color:#b5563f;margin-top:1rem"><strong>Please verify the Child Safety page before it goes live.</strong> The safeguards described reflect the current NSW and national requirements for an Exceeding-rated service and the 2025–26 reforms. Before publishing, confirm each statement matches your actual policies and practices (for example, your photography and device policy, and whether CCTV is in use), so every word is accurate to St Luke's. We've deliberately avoided claiming anything you haven't told us, such as installed CCTV.</div>
+  </div>
+</section>
+
+<section class="section section--forest text-center">
+  <div class="wrap-narrow">
+    <span class="eyebrow" style="color:var(--sand)">Start the walkthrough</span>
+    <h2 style="font-size:var(--fs-h1)">Have a look. It should feel like home.</h2>
+    <p class="lead" style="margin:1.2rem auto 2rem">Open the homepage and scroll slowly, the design is built to be felt before it's read.</p>
+    <a class="btn btn--light" href="index.html">Open the new homepage
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+  </div>
+</section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer__bottom" style="border:none;padding-top:0">
+      <span>Website evolution concept for St Luke's Preschool, Dapto · Prepared for the owner's review</span>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+<script src="assets/js/stickers.js"></script>
+</body>
+</html>

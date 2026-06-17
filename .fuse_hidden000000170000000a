@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Our Educators | St Luke's Preschool Dapto</title>
+<meta name="description" content="Meet the qualified early childhood educators at St Luke's Preschool Dapto. Familiar, caring faces who know every child by name. Parents choose people before programs.">
+<link rel="canonical" href="https://www.stlukespreschool.org.au/team">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <nav class="nav wrap" aria-label="Primary">
+    <a class="nav__logo" href="index.html" aria-label="St Luke's Preschool home">
+      <img class="logo-light" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1561011271362-WZL18BUPBZLLY5ZI9XCS/StLukes_Logo_RGB_WhiteText.png?format=500w" alt="St Luke's Preschool">
+      <img class="logo-dark" src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/1561000660241-JR309UO80O5GHP8TYJ64/StLukes_Logo_RGB.png?format=500w" alt="St Luke's Preschool">
+    </a>
+    <ul class="nav__links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="philosophy.html">Our Approach</a></li>
+      <li><a href="safety.html">Child Safety</a></li>
+      <li><a href="team.html" aria-current="page">Our Educators</a></li>
+      <li><a href="history.html">Our Story</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <div class="nav__cta">
+      <a class="btn btn--outline-light" href="enrol.html">Waiting List</a>
+      <a class="btn btn--timber" href="enrol.html#tour">Book a Tour</a>
+    </div>
+    <button class="nav__toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </nav>
+</header>
+
+<main id="main">
+
+<section class="page-hero">
+  <div class="page-hero__media" data-parallax>
+    <img src="https://images.squarespace-cdn.com/content/v1/5cd36d3faadd343a1b4e7133/e9caaf5a-2740-410f-989f-1c93769f5ed2/New+PhotoStaffing.jpg?format=2000w" alt="The team of educators at St Luke's Preschool">
+  </div>
+  <div class="wrap">
+    <div class="breadcrumb"><a href="index.html">Home</a> &nbsp;/&nbsp; Our Educators</div>
+    <span class="eyebrow">Meet the team</span>
+    <h1>The people you're really trusting your child to.</h1>
+    <p>Qualified, warm and here for the long haul, our educators are the reason families stay, and recommend us to their friends.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap-narrow text-center reveal">
+    <span class="eyebrow">Why this page matters</span>
+    <h2 style="font-size:var(--fs-h2);margin-bottom:1.2rem">Parents buy people before they buy a program.</h2>
+    <p class="lead">You can compare ratios and fees anywhere. What you can't compare on paper is whether the person at the gate will know your child's name, notice when they're having a hard morning, and celebrate the small wins with you at pick-up. That's what you'll find here.</p>
+  </div>
+</section>
+
+<section class="section section--cream">
+  <div class="wrap">
+    <div class="section-head reveal">
+      <span class="eyebrow">Our educators</span>
+      <h2>Familiar faces, every day.</h2>
+    </div>
+    <div class="educators">
+      <article class="educator reveal">
+        <div class="educator__photo"><img src="assets/img/vikki.jpg" alt="Vikki, Director of St Luke's Preschool"></div>
+        <span class="role">Director</span>
+        <h3>Vikki</h3>
+        <p>Sets the warm, steady tone of the whole centre and knows every family by name. The first face you'll meet at the gate.</p>
+        <p class="qual">Bachelor of Early Childhood Education</p>
+      </article>
+      <article class="educator reveal reveal-d1">
+        <div class="educator__photo"><img src="assets/img/mel.jpg" alt="Mel, Room Leader at St Luke's Preschool"></div>
+        <span class="role">Room Leader</span>
+        <h3>Mel</h3>
+        <p>Calm, creative and endlessly patient, with a gift for helping shy children find their feet and their voice.</p>
+        <p class="qual">Diploma of Early Childhood Education &amp; Care</p>
+      </article>
+      <article class="educator reveal reveal-d2">
+        <div class="educator__photo"><img src="assets/img/jenna.jpg" alt="Jenna, Educator at St Luke's Preschool"></div>
+        <span class="role">Educator</span>
+        <h3>Jenna</h3>
+        <p>Notices the small things, a new word, a first friendship, and makes sure families hear about them at pick-up.</p>
+        <p class="qual">Certificate III · First Aid &amp; CPR certified</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section section--forest text-center">
+  <div class="wrap-narrow reveal">
+    <span class="eyebrow" style="color:var(--sand)">Come and meet us</span>
+    <h2 style="font-size:var(--fs-h1)">The best introduction is a handshake at the gate.</h2>
+    <p class="lead" style="margin:1.2rem auto 2rem">Book a tour and meet the educators who'll care for your child.</p>
+    <a class="btn btn--light" href="enrol.html#tour">Book a Tour</a>
+  </div>
+</section>
+
+</main>
+
+<div data-footer></div>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/footer.js"></script>
+<script src="assets/js/stickers.js"></script>
+</body>
+</html>
