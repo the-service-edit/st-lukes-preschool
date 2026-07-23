@@ -16,15 +16,24 @@
         <li><a href="team.html">Our Educators</a></li>\
         <li><a href="history.html">Our Story</a></li>\
         <li><a href="contact.html">Contact</a></li></ul></div>\
-      <div class="footer__col"><h4>Enrol</h4><ul>\
+      <div class="footer__col"><h4>Enrol &amp; Visit</h4><ul>\
         <li><a href="enrol.html">Join the Waiting List</a></li>\
-        <li><a href="enrol.html">Waiting List</a></li>\
-        <li><a href="enrol.html#how">How Enrolment Works</a></li>\
+        <li><a href="visit.html">Arrange a Visit</a></li>\
+        <li><a href="enrol.html#how">What Happens Next</a></li>\
+        <li><a href="enrol.html#faq">Parent FAQ</a></li>\
         <li><a href="contact.html">Ask a Question</a></li></ul></div>\
       <div class="footer__col"><h4>Visit Us</h4><address>\
         Lot 100, Moombara Street<br>Dapto, NSW 2530<br>PO Box 25, Dapto NSW 2530<br><br>\
         <a href="tel:+61242614122">(02) 4261 4122</a><br>\
         <a href="mailto:office@stlukespreschool.org.au">office@stlukespreschool.org.au</a></address></div>\
+    </div>\
+    <div class="footer__legal">\
+      <div class="footer__legal-links">\
+        <a href="safety.html#policies">Child Safety Policy</a>\
+        <a href="safety.html#policies">Privacy Policy</a>\
+        <a href="safety.html#complaints">Complaints &amp; Feedback</a>\
+      </div>\
+      <p class="footer__reg">St Luke\'s Preschool Dapto &middot; ABN [CONFIRM: ABN] &middot; Approved service under the National Quality Framework, rated Exceeding the National Quality Standard &middot; Service approval [CONFIRM: SE number]. Policies available on request from the office.</p>\
     </div>\
     <div class="footer__bottom">\
       <span>&copy; <span data-year>2026</span> St Luke\'s Preschool, Dapto. In partnership with Dapto Anglican Church.</span>\
