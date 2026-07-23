@@ -8,7 +8,7 @@
   // ---- 1. Styles ----
   var css = '\
 .sticker{display:inline-block;line-height:0}\
-.sticker svg{display:block;width:100%;height:100%}\
+.sticker svg{display:block;width:100%;height:100%;overflow:visible}\
 .sticker--abs{position:absolute;z-index:3;pointer-events:none}\
 .s-sm{width:60px;height:60px}.s-md{width:88px;height:88px}.s-lg{width:128px;height:128px}.s-xl{width:172px;height:172px}\
 .sticker--spin{animation:stkFloat 6s ease-in-out infinite}\
